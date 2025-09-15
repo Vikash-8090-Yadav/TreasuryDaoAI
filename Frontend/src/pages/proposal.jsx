@@ -474,7 +474,7 @@ function Proposal() {
                   <div className="row no-gutters align-items-center">
                     <div className="col mr-2">
                       <div className="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                        Club Balance (ETH)
+                        Club Balance (CFX)
                       </div>
                       <div className="h5 mb-0 font-weight-bold text-gray-800 club_balance">
                         -
@@ -538,7 +538,7 @@ function Proposal() {
                   <div className="row no-gutters align-items-center">
                     <div className="col mr-2">
                       <div className="text-xs font-weight-bold text-secondary text-uppercase mb-1">
-                        See All Data{" "}
+                        Verify DAO Data
                       </div>
                       
                         <div className="btn btn-primary" onClick={verify}>
@@ -585,7 +585,7 @@ function Proposal() {
                         <span id="proposal_destination" />
                       </b>{" "}
                       <br />
-                      Amount (in ETH):{" "}
+                      Amount (in CFX):{" "}
                       <b>
                         <span id="proposal_amount" />
                       </b>{" "}
