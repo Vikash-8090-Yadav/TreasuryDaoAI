@@ -38,7 +38,7 @@ A decentralized autonomous organization (DAO) platform with integrated AI capabi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone  https://github.com/Vikash-8090-Yadav/TreasuryDaoAI
    cd TreasuryDaoAI
    ```
 
