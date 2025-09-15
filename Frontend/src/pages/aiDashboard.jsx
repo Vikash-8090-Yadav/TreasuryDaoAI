@@ -46,12 +46,6 @@ function AIDashboardPage() {
               <span>Create club</span>
             </Link>
           </li>
-          <li className="nav-item">
-            <Link className="nav-link" to="/createproposal">
-              <i className="fas fa-fw fa-plus-circle" />
-              <span>Create proposal</span>
-            </Link>
-          </li>
           <li className="nav-item active">
             <Link className="nav-link" to="/ai-dashboard">
               <i className="fas fa-fw fa-robot" />
