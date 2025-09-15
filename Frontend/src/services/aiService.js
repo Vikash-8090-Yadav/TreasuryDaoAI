@@ -313,7 +313,7 @@ Please provide a JSON response with:
   getTopAssets() {
     return [
       { name: 'CFX', change: (Math.random() * 20 - 10).toFixed(2) + '%' },
-      { name: 'ETH', change: (Math.random() * 15 - 7.5).toFixed(2) + '%' },
+      { name: 'CFX', change: (Math.random() * 15 - 7.5).toFixed(2) + '%' },
       { name: 'BTC', change: (Math.random() * 10 - 5).toFixed(2) + '%' }
     ];
   }
