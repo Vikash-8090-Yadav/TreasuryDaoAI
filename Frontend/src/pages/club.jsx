@@ -370,7 +370,7 @@ function Club() {
           <div className="sidebar-brand-icon rotate-n-15">
             <i className="fas fa-laugh-wink" />
           </div>
-          <div className="sidebar-brand-text mx-3">Linea Club</div>
+          <div className="sidebar-brand-text mx-3">🤖 AI Treasury DAO</div>
         </a>
         {/* Divider */}
         <hr className="sidebar-divider my-0" />
@@ -432,7 +432,7 @@ function Club() {
                     <div className="row no-gutters align-items-center">
                       <div className="col mr-2">
                         <div className="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                          Club Balance (ETH)
+                          Club Balance (CFX)
                         </div>
                         <div className="h5 mb-0 font-weight-bold text-gray-800 club_balance">
                           -
@@ -608,7 +608,7 @@ function Club() {
                   </div>
                   <div className="card-body">
                     <p>
-                      Amount of ETH: <br />
+                      Amount of CFX: <br />
                       <input
                         type="number"
                         id="aeAmount"
